@@ -26,4 +26,4 @@ This is a GUI-based To-Do List project that I developed using Python and Tkinter
 
 # Author:
 
-Created by Vivek Yadav GitHub:@Vivekyx
+Created by Vivek Yadav GitHub: @Vivekyx
