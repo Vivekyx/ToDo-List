@@ -24,6 +24,6 @@ This is a GUI-based To-Do List project that I developed using Python and Tkinter
 - Performing add, update and delete operations.
 - Saving and loading data using JSON.
 
-# Author
+# Author:
 
 Created by Vivek Yadav GitHub:@Vivekyx
